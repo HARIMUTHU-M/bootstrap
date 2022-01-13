@@ -1,0 +1,48 @@
+body{
+    font-family: 'Arvo', serif;
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 100px;
+    height: 5px;
+    margin: 0 auto;
+    /* background: blue!important; */
+}
+.height-80{
+    min-height: 100hv;
+}
+
+.about-picture{
+    background: url(../img/bgd1.jpg)center/cover no-repeat fixed;
+    /* background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+#filler, #progress{
+    background: linear-gradient(to top,rgba(0,0,0,.5) , rgba(0,0,0,.7)),url(../img/p1.jpg)center/cover no-repeat fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* p1 */
+
+/* #sk{
+    height:100vh;
+} */
+
+/* .height{
+    min-height: 100vh;
+} */

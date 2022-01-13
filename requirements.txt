@@ -1,0 +1,6 @@
+bootstrap
+icon - font awsome
+font - google font
+pctures - pexels
+color code - coolors
+easy type - emmet
